@@ -46,7 +46,7 @@ ul li {
 img {
 	display: inline-block;
 }
-header.sticky {
+header .sticky {
     background: #000000;
 }
 header {
