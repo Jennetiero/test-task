@@ -1,0 +1,72 @@
+@media (min-width: 992px) and (max-width: 1199px)
+{
+	.pricing_sec .col-12 {
+		margin: 0px 15px;
+	}
+
+}
+@media (min-width: 768px) and (max-width: 991px)
+{
+	header button.navbar-toggler {
+		color: #ffffff !important;
+	}
+	.main_menu ul li:first-child {
+		padding: 7px 20px 6px 20px;
+	}
+	.main_menu ul li {
+		padding: 0 20px 10px;
+	}
+	.pricing_sec .col-12 {
+		margin: 0px 12px;
+	}
+}
+@media only screen and (max-width: 767px) 
+{
+	header {
+	    padding: 10px 0;
+	    background: #000000;
+	}
+	header button.navbar-toggler {
+	    color: #ffffff !important;
+	}
+	.main_menu ul li:first-child {
+		padding: 7px 20px 6px 20px;
+	}
+	.main_menu ul li {
+		padding: 0 20px 10px;
+	}
+	section#top_header {
+	    padding-top: 64px;
+	}
+	.pricing_sec .row {
+		margin: 0;
+	}
+	.pricing_sec .col-12 {
+		margin: 0px 0px 30px 0px !important;
+		max-width: 100.8% !important;
+		
+	}
+}
+@media only screen and (max-width: 575px) {
+	.second_sec h4 {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 415px) {
+	.banner_content h2 {
+		padding: 11px 0 5px;
+		font-size: 1.3rem;
+	}.banner_content a {
+		font-size: 12px;
+	}
+
+}
+@media only screen and (max-width: 320px) 
+{
+
+}
+@media (min-width: 411px) and (max-width: 766px)
+{
+
+}
